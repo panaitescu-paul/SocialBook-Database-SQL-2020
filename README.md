@@ -4,15 +4,16 @@ SocialBook Database made in SQL
 ## Content:
 - **SQL Queries** applied on the SocialBook DB
 - **Exported Database** - as an SQL file
+- **3 Diagrams** of the database
 - **22 Page Documentation** of the database
-  - **Miniworld Description**
-  - **Modeling and Design**
-  - **Entities and Relationships**
-  - **Normalization** 
+	1. **Miniworld Description**
+	2. **Modeling and Design**
+	3. **Entities and Relationships**
+	4. **Normalization** 
 	  - First Normal Form 
 	  - Second Normal Form 
-  	- Third Normal Form
-  - **Physical Database** 
+	  - Third Normal Form
+	5. **Physical Database** 
 	  - Referential Integrity 
 	  - View  
 	  - Index  
@@ -21,10 +22,10 @@ SocialBook Database made in SQL
 	  - Trigger  
 	  - Scheduled Event  
 	  - Transaction 
-  - **Operations, Use Cases, Code**
-  - **Rationale for Choices**
-  - **Screenshots of the Database**
-- **3 Diagrams** of the database
+  	6. **Operations, Use Cases, Code**
+  	7. **Rationale for Choices**
+  	8. **Screenshots of the Database**
+
 
 ## Technologies:
 - SQL
