@@ -1,5 +1,5 @@
-# SocialBook-Database-SQL-2020
-SocialBook Database made in SQL
+# SocialBook Database - SQL - 2020
+SocialBook Database made in SQL.
 
 ## Content:
 - **SQL Queries** applied on the SocialBook DB
