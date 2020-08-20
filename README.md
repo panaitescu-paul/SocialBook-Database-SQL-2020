@@ -37,9 +37,9 @@
 
 <p align="center">
   <hr>
-  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/SocialBook-Database-SQL-2020/blob/master/Diagrams/Diagram - EER (Exported).png">
+  <img width="100%" height="100%" text-align="center" src="https://github.com/panaitescu-paul/SocialBook-Database-SQL-2020/blob/master/Diagrams/Diagram - EER (Exported).png">
   <hr>
-  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/SocialBook-Database-SQL-2020/blob/master/Diagrams/Diagram - ER (PK, FK).png">
+  <img width="100%" height="100%" text-align="center" src="https://github.com/panaitescu-paul/SocialBook-Database-SQL-2020/blob/master/Diagrams/Diagram - ER (PK, FK).png">
   <hr>
-  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/SocialBook-Database-SQL-2020/blob/master/Diagrams/Diagram - ER.png">
+  <img width="100%" height="100%" text-align="center" src="https://github.com/panaitescu-paul/SocialBook-Database-SQL-2020/blob/master/Diagrams/Diagram - ER.png">
 </p>
