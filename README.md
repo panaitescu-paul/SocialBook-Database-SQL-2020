@@ -1,5 +1,5 @@
 # SocialBook Database - SQL - 2020
-SocialBook Database made in SQL.
+### SocialBook Database made in SQL, with comprehensive documentation.
 
 ## Content:
 - **SQL Queries** applied on the SocialBook DB
